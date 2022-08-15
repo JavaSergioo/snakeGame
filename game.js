@@ -106,7 +106,7 @@ function pause() {
             snakes.length = 1
             vx = 0
             vy = 0
-            score= 0
+            score = 0
             context.fillStyle = "red"
             context.fillText(gameOver, 140, 200)
 
@@ -130,26 +130,6 @@ function pause() {
                 score = 0;
 
             }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         }
 
